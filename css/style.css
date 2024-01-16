@@ -17,7 +17,6 @@ a {
 }
 header {
   position: fixed;
-  width: 1125px;
   margin-left: 180px;
   margin-right: 180px;
   height: 79px;
@@ -29,8 +28,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: fixed;
   gap: 150px;
+  background: #f2ceda;
 }
 .header-menu {
   color: #150101;
